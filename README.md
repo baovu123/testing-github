@@ -1,3 +1,3 @@
-# testing-github
+# Testing out Github
 
-Hello World
+Hello World. This is our new test.
